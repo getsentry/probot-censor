@@ -1,0 +1,9 @@
+language: node_js
+cache: yarn
+
+git:
+  depth: 1
+
+node_js:
+  - "7.7.0"
+  - "node"
