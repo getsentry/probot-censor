@@ -1,6 +1,6 @@
 {
   "name": "probot-censor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Removes sensitive information from issues, PRs and comments",
   "author": "Jan Michael Auer <jan.auer@sentry.io>",
   "license": "BSD-3-Clause",
