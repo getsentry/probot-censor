@@ -3,6 +3,8 @@
 > a GitHub App built with [probot](https://github.com/probot/probot) that removes sensitive stuff
 > from issues, pull requests and comments
 
+![](https://user-images.githubusercontent.com/1433023/32177952-cca0bd7a-bd8b-11e7-8a60-20036e476f15.png)
+
 ## Usage
 
 1. **[Configure the GitHub App](https://github.com/apps/censor)**
