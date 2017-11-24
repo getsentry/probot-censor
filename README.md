@@ -38,7 +38,23 @@ npm install
 
 # Run the bot
 npm start
+
+# Run test watchers
+npm run test:watch
 ```
+
+We use [prettier](https://prettier.io/) for auto-formatting and
+[eslint](https://eslint.org/) as linter. Both tools can automatically fix a lot
+of issues for you. To invoke them, simply run:
+
+```sh
+npm run fix
+```
+
+It is highly recommended to use VSCode and install the suggested extensions.
+They will configure your IDE to match the coding style, invoke auto formatters
+every time you save and run tests in the background for you. No need to run the
+watchers manually.
 
 ## Deployment
 
