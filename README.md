@@ -34,13 +34,13 @@ rules:
 
 ```sh
 # Install dependencies
-npm install
+yarn
 
 # Run the bot
-npm start
+yarn start
 
 # Run test watchers
-npm run test:watch
+yarn test:watch
 ```
 
 We use [prettier](https://prettier.io/) for auto-formatting and
@@ -48,7 +48,7 @@ We use [prettier](https://prettier.io/) for auto-formatting and
 of issues for you. To invoke them, simply run:
 
 ```sh
-npm run fix
+yarn fix
 ```
 
 It is highly recommended to use VSCode and install the suggested extensions.
