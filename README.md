@@ -20,7 +20,7 @@ specify rules for the bot to scan in the following format:
 message: "Hi there, I just edited this for you."
 # The required list of rules
 rules:
-    # A required pattern to scan for. Accepts anything that is a valid JavaScript regluar expression
+    # A required pattern to scan for. Accepts anything that is a valid JavaScript regular expression
   - pattern: "(private_key|auth_token)=\w+"
     # The text to replace all matches with. Can refer to matching groups with $
     replacement: "$1=🔑"
