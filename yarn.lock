@@ -3621,7 +3621,7 @@ probot-config@^0.2.0:
   dependencies:
     js-yaml "^3.10.0"
 
-probot@^6.2.0:
+probot@^6.2.1:
   version "6.2.1"
   resolved "https://registry.yarnpkg.com/probot/-/probot-6.2.1.tgz#1f233e09b219133a3ee907603cc7a4beacaa53ee"
   integrity sha512-RhP8vSefnzD+Erb/5DGl9TMV3r38D56GmSqMKf5O1bCuc+ySC8246yKxNXYRxjmarXejlg/Q4raCmRSo4s5HPA==
@@ -4350,9 +4350,9 @@ string_decoder@~1.1.1:
     safe-buffer "~5.1.0"
 
 stringstream@~0.0.4:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.5.tgz#4e484cd4de5a0bbbee18e46307710a8a81621878"
-  integrity sha1-TkhM1N5aC7vuGORjB3EKioFiGHg=
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/stringstream/-/stringstream-0.0.6.tgz#7880225b0d4ad10e30927d167a1d6f2fd3b33a72"
+  integrity sha512-87GEBAkegbBcweToUrdzf3eLhWNg06FJTebl4BVJz/JgWy8CvEr9dRtX5qWphiynMSQlxxi+QqN0z5T32SLlhA==
 
 strip-ansi@^3.0.0, strip-ansi@^3.0.1:
   version "3.0.1"
